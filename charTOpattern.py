@@ -256,9 +256,9 @@ while 1:
         elif alpha == 'Z':
           disign_Z()
           print('='*36)
-    choice = input('Want to draw any other alphabate disign[n/except n or N all chars considered to be yes...]>>')
+    choice = input('Want to draw any other alphabate disign[n/y]>>')
     if choice == 'n' or choice == 'N':
           break
-    elif choice == 'y' or choice == 'Y':
-      continue
+    
+      
         
